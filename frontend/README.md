@@ -4,7 +4,7 @@ Frontend README
 
 **Muscle Cars Web App**  
 
-A React-based frontend that allows users to view, add, and update muscle car records. It connects to a live API hosted on Render and uses Grid.js to present data in table format.
+A React frontend that allows users to view, add, and update muscle car records. It connects to a live API hosted on Render and uses Grid.js to present data in table format.
 ---
 
 ## Installation & Setup
