@@ -4,7 +4,7 @@ Backend README
 
 **Muscle Cars API**  
 
-An Express-based REST API connected to a PostgreSQL database. It is built for managing muscle car data, including make, model, horsepower, and year. Hosted on Render.
+A REST API connected to a PostgreSQL database. It is built for managing muscle car data, including make, model, horsepower, and year. Hosted on Render.
 ---
 
 ## Installation & Setup
